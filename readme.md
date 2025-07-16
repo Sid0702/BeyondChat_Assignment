@@ -34,8 +34,8 @@ Follow these steps to set up and run the project locally.
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-github-repo-link>
-cd beyondchats-assignment
+git clone https://github.com/Sid0702/BeyondChat_Assignment.git
+cd BeyondChats-Assignment
 ```
 
 ### 3. Set Up a Virtual Environment (Recommended)
