@@ -1,0 +1,50 @@
+==================================================
+        USER PERSONA: kojied
+==================================================
+
+QUOTE:
+"I'm hoping people realize after this that it’s not a left or right issue, but rather those with wealth pitting those less fortunate against each other. Hopefully we can realize this before it’s too late and develop meaningful solutions."
+(Source: General sentiment from multiple comments, particularly https://www.reddit.com/r/OptimistsUnite/comments/1hnvi2y/i_made_a_post_a_month_or_so_back_that_maga_will/m454yr1/)
+
+---
+
+DEMOGRAPHICS:
+* AGE: Estimated 25-35 (Source:  References to Gen Z in https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/, and general tech savviness in posts about Vision Pro and AI)
+* LOCATION: Likely USA (Source: Frequent mentions of NYC in posts like https://www.reddit.com/r/AskNYC/comments/1hntgrp/what_is_your_nyc_to_do_list_for_2025/m453mqo/ and  https://www.reddit.com/r/AskNYC/comments/1hpnjqr/ridiculous_question_anybody_know_where_in_chelsea/m4j0ese/ and references to American politics)
+* OCCUPATION: Possibly Software Developer or related tech field (Source:  Posts and comments about iOS development in  https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ and expertise in AI and programming related topics)
+* STATUS: Not specified in data
+
+---
+
+PERSONALITY SUMMARY:
+* The user appears to be analytical, knowledgeable, and detail-oriented. (Source:  Thorough and insightful comments on technical topics like those in https://www.reddit.com/r/civ5/comments/1iuhdh9/dude_tf/mdxgebg/,  https://www.reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/, and https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/)
+* They exhibit traits of an Introvert, preferring to engage in focused, topic-specific discussions. (Source:  Primarily participates in technical and niche subreddits, and less so in broad general discussion subreddits)
+
+---
+
+BEHAVIOUR & HABITS:
+* Actively contributes to subreddits related to  gaming (Manor Lords, Project Zomboid), finance (stocks, options, WallStreetBets), technology (Vision Pro, ChatGPT, iOS development), and city-specific discussions (NYC). (Source: Multiple posts and comments across various subreddits)
+* Often helps beginners by answering their technical questions in gaming and other subreddits (Source: comments in r/ManorLords, r/civ5)
+* Displays a broad range of interests, spanning from finance and technology to city life and gaming. (Source: Variety of subreddits actively participated in)
+
+---
+
+MOTIVATIONS:
+* KNOWLEDGE SHARING: Driven by a desire to help others and share their expertise. (Source:  Numerous helpful comments across different subreddits, particularly in gaming and technology related subreddits)
+* PROBLEM SOLVING: Enjoys tackling complex logical problems presented in posts. (Source: Active participation in technical discussions in subreddits like r/civ5, r/ManorLords, and r/options)
+* COMMUNITY: Values being part of a community of like-minded individuals. (Source: Active participation in many niche subreddits, suggesting interest in community building and interaction.)
+
+---
+
+GOALS & NEEDS:
+* GOAL: Seems to be expanding their knowledge and expertise in various fields, and sharing that knowledge with others (Source:  Active participation and insightful comments in diverse technical subreddits)
+* NEED: Requires clear, well-defined problems to engage with. (Source: Often criticizes vague or poorly formed questions in their comments)
+
+---
+
+FRUSTRATIONS:
+* Dislikes vague or poorly-asked questions. (Source:  Comments expressing frustration with unclear or poorly defined questions across various subreddits)
+* Expresses frustration with misinformation or incorrect technical advice. (Source: Comments correcting incorrect information on various subjects)
+
+
+---
